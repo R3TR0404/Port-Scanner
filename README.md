@@ -16,4 +16,5 @@ Este proyecto es solo para fines educativos.
 
 ## ▶️ Ejecución
 ```bash
-python scanner.py
+python scanner.py -t sname.nmap.org -p 1-1000 =th 100
+
